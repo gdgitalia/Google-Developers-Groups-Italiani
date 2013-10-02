@@ -1,0 +1,54 @@
+Lista dei Google Developers Group in Italia. Trova quello più vicino a te!
+(fonte: https://developers.google.com/groups/directory/Italy)
+
+a) GDG Bari:
+	G+: http://plus.google.com/106251105155216710234
+	Website: https://groups.google.com/forum/#!forum/gdg-bari
+
+b) GDG Brescia:
+	G+: http://plus.google.com/104091916976470214422
+	Website: http://gdgbrescia.blogspot.it/
+
+c) GDG Campania:
+	G+: http://plus.google.com/118330453895116582842
+	Website: http://goo.gl/Zln4k
+
+d) GDG Firenze:
+	G+: http://plus.google.com/106830297068962619150
+	Website: https://sites.google.com/site/firenzegtug/
+
+e) GDG Genova:
+	G+: http://plus.google.com/117774146664629729620
+	Website: http://gdg-genova.blogspot.it/
+
+f) GDG Milano:
+	G+: http://plus.google.com/111537749545250109648
+	Website:http://www.gdg-milano.org/
+
+g) GDG Nebrodi:
+	G+: http://plus.google.com/110525413309040576910
+	Website: http://www.gdgnebrodi.info/
+
+h) GDG Palermo:
+	G+: http://plus.google.com/111445091579754468671
+	Website: https://sites.google.com/site/palermogtug/
+
+i) GDG Perugia:
+	G+: http://plus.google.com/100029768638367982742
+	Website: http://perugia.gtugs.org/
+
+l) GDG Roma Lab:
+	G+: http://plus.google.com/110676501469531199993
+	Website: http://go-lab.org/H/GDG.html
+
+m) GDG Torino:
+	G+: http://plus.google.com/104526335641251202320
+	Website: http://www.gdgtorino.it/
+
+n) GDG Trento:
+	G+: http://plus.google.com/111161676776647373558
+	Website: http://www.trento-gtug.org/
+
+o) GDG Udine:
+	G+: http://plus.google.com/108234097192616821410
+	Website: http://sites.google.com/site/gdgudinewiki/
