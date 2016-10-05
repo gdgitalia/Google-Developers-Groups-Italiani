@@ -1,4 +1,4 @@
-Lista dei Google Developers Group in Italia. Trova quello più vicino a te!
+Lista dei Google Developers Group in Italia. Trova quello piÃ¹ vicino a te!
 (fonte: https://developers.google.com/groups/directory/Italy)
 
 a) GDG Bari:
@@ -47,7 +47,7 @@ m) GDG Torino:
 
 n) GDG Trento:
 	G+: http://plus.google.com/111161676776647373558
-	Website: http://www.trento-gtug.org/
+	Website: https://gdgtrento.it
 
 o) GDG Udine:
 	G+: http://plus.google.com/108234097192616821410
